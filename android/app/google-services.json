@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028380767675",
+    "project_id": "acesample-dafd1",
+    "storage_bucket": "acesample-dafd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028380767675:android:84206113dc27977d31009e",
+        "android_client_info": {
+          "package_name": "com.ace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028380767675-iqvlt1q5umbvuvn31ijrlk5puv2okvu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIsZsJvtQ53VP13jVeNCRg_NWkyUU6U0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028380767675-iqvlt1q5umbvuvn31ijrlk5puv2okvu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
